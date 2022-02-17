@@ -1,0 +1,45 @@
+div.container{
+    background-color: #71b6f180;
+}
+
+h1{
+    text-align: center;
+}
+.form-check{
+    background-color: none !important;
+}
+.form-check .form-check-input{
+    float: right!important;
+}
+.drop{
+    float: right;
+}
+.form-check-input:focus{
+    box-shadow: none!important;
+}
+.header{
+    width: 60%;
+}
+div.vuon1{
+    display: flex;
+    justify-content: center;
+}
+div.fa-fa{
+
+    padding-left: 100px;
+    padding-right: 100px;
+}
+h1{
+    color: rgb(55, 24, 73);
+    font-style: oblique;
+}
+.round-vuon1{
+    border: 1px solid rgb(155, 135, 135);
+    border-radius: 20px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+
+}
+.ngat{
+    margin-left: 20px;
+}
